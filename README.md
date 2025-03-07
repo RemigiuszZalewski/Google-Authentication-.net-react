@@ -2,5 +2,4 @@
 
 in order to run properly react app you need to run:
 
-npm install
-npm run dev
+npm install -> npm run dev
